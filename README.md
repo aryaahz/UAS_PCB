@@ -2,9 +2,12 @@
 ## The Automated Detection Development of Capillary Loops on Nailfold Capillaroscopy Images
 
 ## Description
-This project is developed by Shadrina Syahla Vidyana, Noor Nisa Fayyaza, and Audrey Ahzab for academic review and educational purposes. 
-It involves the implementation and evaluation of a segmentation system for NFC images. This repository is part of the documentation for
-this project, which is fully described in an available document (Laporan Tugas Besar II). 
+This project is developed by Shadrina Syahla Vidyana, Noor Nisa Fayyaza, and Audrey Ahzab, 
+in order to fulfill the final exams (UAS) of EB3203 Biomedical Image Processing. 
+This repository is intended for academic review and educational purposes only. 
+It involves the implementation and evaluation of a segmentation system for NFC images. 
+This repository is part of the documentation for this project, 
+which is fully described in an available document upon request (Laporan Tugas Besar II). 
 
 ## Licensing Information
 This work is licensed under the **Academic Review License v1.0**.
