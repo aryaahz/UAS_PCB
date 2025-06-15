@@ -7,7 +7,17 @@ in order to fulfill the final exams (UAS) of EB3203 Biomedical Image Processing.
 This repository is intended for academic review and educational purposes only. 
 It involves the implementation and evaluation of a segmentation system for NFC images. 
 This repository is part of the documentation for this project, 
-which is fully described in an available document upon request (Laporan Tugas Besar II). 
+which is fully described in an available document upon request (Laporan Tugas Besar II).
+
+## Tools and Libraries Used
+This project was developed using the following programming languages and libraries:
+- Python 3.10
+- OpenCV (cv2)
+- NumPy
+- Matplotlib
+- Scikit-learn
+- PIL (Python Imaging Library)
+Documentation and examples from the official sources were referenced during development.
 
 ## Licensing Information
 This work is licensed under the **Academic Review License v1.0**.
