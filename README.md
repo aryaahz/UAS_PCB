@@ -17,7 +17,15 @@ This project was developed using the following programming languages and librari
 - Matplotlib
 - Scikit-learn
 - PIL (Python Imaging Library)
+- tqdm
 Documentation and examples from the official sources were referenced during development.
+
+## References
+- NazminJuli. (2021). Criminisi-Inpainting Inpainter.py, main.py. GitHub. https://github.com/NazminJuli/Criminisi-Inpainting
+- OpenCV Documentation: https://docs.opencv.org/
+- Scikit-learn User Guide: https://scikit-learn.org/stable/user_guide.html
+- Python Official Docs: https://docs.python.org/3/
+- tqdm Documentation: https://tqdm.github.io/
 
 ## Licensing Information
 This work is licensed under the **Academic Review License v1.0**.
@@ -63,4 +71,4 @@ redistributed, or modified without explicit written permission from the author. 
 claim intellectual property based on this work. Proper attribution must be given to the original author if this work is referenced or cited.
 
 ## Contact Information
-For any inquiries or permissions, please contact the authors at 18320031@mahasiswa.itb.ac.id (Shadrina) or 18320010@mahasiswa.itb.ac.id (Audrey).
+For any inquiries or permissions, please contact the authors at 18320031@mahasiswa.itb.ac.id (Shadrina) or 18322010@mahasiswa.itb.ac.id (Audrey).
